@@ -1,23 +1,38 @@
 .version.index /* version checker */
 {
-	color: #000014;
-	background-color: #35FC5B;
+	color: #00000B;
+	background-color: #319B68;
 }
 
 #page
 {
 	z-index: 1;
-	min-height: 360px;
+	min-height: 422px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
 	background-color: transparent;
-	padding-top: 62px;
 	padding-bottom: 587px;
 	width: 100%;
 	max-width: 1500px;
 	margin-left: auto;
 	margin-right: auto;
+}
+
+#u200-4
+{
+	z-index: 6;
+	min-height: 97px;
+	background-color: transparent;
+	text-align: center;
+	font-size: 30px;
+	line-height: 36px;
+	font-family: Comic Sans, Comic Sans MS, cursive;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 193px;
+	width: 23.41%;
+	left: 8.07%;
 }
 
 #slideshowu94
@@ -26,7 +41,9 @@
 	width: 0.01px;
 	height: 360px;
 	position: relative;
-	margin-left: 34%;
+	margin-right: -10000px;
+	margin-top: 62px;
+	left: 34%;
 }
 
 #u98
@@ -80,4 +97,5 @@ body
 	position: relative;
 	min-width: 320px;
 }
+
 

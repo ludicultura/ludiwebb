@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="ludicultura.com" resolutions="1x" timestamp="1472492384062">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="ludicultura.com" resolutions="1x" timestamp="1472493266701">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
-    <file name="index.css" crc="339082331" ref="index"/>
+    <file name="index.css" crc="187800424" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="207176553" ref="index"/>
@@ -18,5 +18,5 @@
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="loading.gif" crc="3815509949" ref="index"/>
   </folder>
-  <file name="index.html" crc="3785763976" seo="true" mt="1472492319510" redirect="true"/>
+  <file name="index.html" crc="39689849" seo="true" mt="1472493244793" redirect="true"/>
 </manifest>
