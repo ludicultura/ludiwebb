@@ -1,0 +1,83 @@
+.version.index /* version checker */
+{
+	color: #000014;
+	background-color: #35FC5B;
+}
+
+#page
+{
+	z-index: 1;
+	min-height: 360px;
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: transparent;
+	padding-top: 62px;
+	padding-bottom: 587px;
+	width: 100%;
+	max-width: 1500px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#slideshowu94
+{
+	z-index: 2;
+	width: 0.01px;
+	height: 360px;
+	position: relative;
+	margin-left: 34%;
+}
+
+#u98
+{
+	position: absolute;
+	width: 480px;
+	height: 360px;
+	background-color: transparent;
+}
+
+#u98popup
+{
+	z-index: 3;
+}
+
+#u101
+{
+	z-index: 4;
+	width: 480px;
+	height: 360px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u101_img
+{
+	padding-left: 49px;
+	padding-right: 49px;
+}
+
+.SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* slideshowFreeStyle */
+{
+	cursor: pointer;
+}
+
+.SSSlideLoading /* slideshowFreeStyle */
+{
+	background: url("../images/loading.gif") no-repeat center center;
+}
+
+#muse_css_mq,.html
+{
+	background-color: #FFFFFF;
+}
+
+body
+{
+	position: relative;
+	min-width: 320px;
+}
+
