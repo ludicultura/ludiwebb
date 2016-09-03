@@ -146,6 +146,61 @@ a.nontext /* used to override default properties of 'a' tag */
 	padding: 0px;
 }
 
+.Position
+{
+	color: #00A99D;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	font-size: 11px;
+	text-align: center;
+	padding: 0px;
+}
+
+.Name
+{
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: center;
+	padding: 0px;
+}
+
+.Price-top
+{
+	color: #000000;
+	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
+	font-size: 30px;
+	text-align: left;
+	padding: 0px;
+}
+
+.Heading
+{
+	color: #FFFFFF;
+	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
+	font-size: 20px;
+	text-align: center;
+	padding: 0px;
+}
+
+.Text
+{
+	color: #FFFFFF;
+	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+	line-height: 35px;
+	text-align: center;
+	padding: 0px;
+}
+
+.Price
+{
+	color: #000000;
+	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
+	font-size: 85px;
+	padding: 0px;
+}
+
 .list0 li:before
 {
 	position: absolute;

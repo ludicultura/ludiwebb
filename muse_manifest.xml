@@ -1,22 +1,104 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="ludicultura.com" resolutions="1x" timestamp="1472493266701">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="ludicultura.com" resolutions="1x" timestamp="1472869531754">
   <folder name="css">
-    <file name="site_global.css" crc="131700929"/>
-    <file name="index.css" crc="187800424" ref="index"/>
+    <file name="site_global.css" crc="254915991"/>
+    <file name="casa-cultura.css" crc="3961075990" ref="casa-cultura"/>
+    <file name="index.css" crc="50844785" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index"/>
-    <file name="museutils.js" crc="3790713428" ref="index"/>
-    <file name="whatinput.js" crc="84559013" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:casa-cultura"/>
+    <file name="museutils.js" crc="3790713428" ref="index:casa-cultura"/>
+    <file name="whatinput.js" crc="84559013" ref="index:casa-cultura"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3918880840" ref="index"/>
+    <file name="jquery.musemenu.js" crc="238543590" ref="index"/>
     <file name="webpro.js" crc="329496574" ref="index"/>
     <file name="musewpslideshow.js" crc="394033048" ref="index"/>
     <file name="jquery.museoverlay.js" crc="4265131668" ref="index"/>
     <file name="touchswipe.js" crc="497316881" ref="index"/>
-    <file name="jquery.watch.js" crc="4244854265" ref="index"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="index:casa-cultura"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="form_check.php" crc="3805695515" ref="index"/>
+    <file name="form_throttle.php" crc="3802629389" ref="index"/>
+    <file name="form_process.php" crc="54267062" ref="index"/>
+    <file name="form-u1117.php" crc="4134507218" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="4219894366" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:casa-cultura"/>
   </folder>
   <folder name="images">
-    <file name="logo.jpg" crc="469361411" seo="true" ref="index"/>
+    <file name="1.jpg" crc="4078743325" ref="index"/>
+    <file name="u3454-4.png" crc="485008188" ref="index"/>
+    <file name="u2709-6.png" crc="4066511717" ref="index"/>
+    <file name="u2276-6.png" crc="454870133" ref="index"/>
+    <file name="u2323-6.png" crc="4190657453" ref="index"/>
+    <file name="u2330-4.png" crc="263713534" ref="index"/>
+    <file name="u2337-4.png" crc="40901723" ref="index"/>
+    <file name="u2344-4.png" crc="86678542" ref="index"/>
+    <file name="ludilogo.jpg" crc="3828126687" seo="true" ref="index"/>
+    <file name="u2802-4.png" crc="54626945" ref="index"/>
+    <file name="2016-04-14 204417-crop-u4379.jpg" crc="108219198" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="2016-04-18 205206-crop-u4482.jpg" crc="510559793" ref="index"/>
     <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="pantalla1.jpg" crc="3869931797" ref="index"/>
+    <file name="u1266-4.png" crc="4000311162" ref="index"/>
+    <file name="u1268-4.png" crc="4163065831" ref="index"/>
+    <file name="u1828-4.png" crc="4154819760" ref="index"/>
+    <file name="mariposa.png" crc="3933969705" seo="true" ref="index"/>
+    <file name="avion.png" crc="3809879880" seo="true" ref="index"/>
+    <file name="paloma.png" crc="3766731495" seo="true" ref="index"/>
+    <file name="erick.png" crc="4245150510" ref="index"/>
+    <file name="ivan.png" crc="4140520077" ref="index"/>
+    <file name="pilip.png" crc="3769830634" ref="index"/>
+    <file name="pantalla2.jpg" crc="3913957250" seo="true" ref="index"/>
+    <file name="u1525-4.png" crc="297667789" ref="index"/>
+    <file name="2015-12-09 121313-crop-u3796.jpg" crc="487698984" ref="index"/>
+    <file name="2016-03-07 214526-crop-u3999.jpg" crc="3970309960" ref="index"/>
+    <file name="img_7620.jpg" crc="480685379" seo="true" ref="index"/>
+    <file name="img_7694.jpg" crc="342966997" seo="true" ref="index"/>
+    <file name="img_7711.jpg" crc="518192244" seo="true" ref="index"/>
+    <file name="img_7727.jpg" crc="412231631" seo="true" ref="index"/>
+    <file name="img_7752.jpg" crc="3975605386" seo="true" ref="index"/>
+    <file name="img_7806.jpg" crc="345984605" seo="true" ref="index"/>
+    <file name="img_8319.jpg" crc="3883719855" seo="true" ref="index"/>
+    <file name="img_8324.jpg" crc="302634434" seo="true" ref="index"/>
+    <file name="img_8342.jpg" crc="216330365" seo="true" ref="index"/>
+    <file name="img_8513.jpg" crc="86500777" seo="true" ref="index"/>
+    <file name="img_8713.jpg" crc="4237116114" seo="true" ref="index"/>
+    <file name="img_9792.jpg" crc="3798912675" seo="true" ref="index"/>
+    <file name="img_9866.jpg" crc="3998739185" seo="true" ref="index"/>
+    <file name="img_9900.jpg" crc="3854501600" seo="true" ref="index"/>
+    <file name="img_9902.jpg" crc="3862572727" seo="true" ref="index"/>
+    <file name="img_9908.jpg" crc="4009146357" seo="true" ref="index"/>
+    <file name="2015-12-09 121313-crop-u3789.jpg" crc="3963472374" ref="index"/>
+    <file name="2016-03-07 214526-crop-u4005.jpg" crc="3765811199" ref="index"/>
+    <file name="img_762068x45.jpg" crc="4103438142" seo="true" ref="index"/>
+    <file name="img_769468x45.jpg" crc="4158236351" seo="true" ref="index"/>
+    <file name="img_771168x45.jpg" crc="3884386851" seo="true" ref="index"/>
+    <file name="img_772768x45.jpg" crc="131498935" seo="true" ref="index"/>
+    <file name="img_775268x45.jpg" crc="69607244" seo="true" ref="index"/>
+    <file name="img_780668x45.jpg" crc="4222801850" seo="true" ref="index"/>
+    <file name="img_831968x45.jpg" crc="521745644" seo="true" ref="index"/>
+    <file name="img_832468x45.jpg" crc="3967308016" seo="true" ref="index"/>
+    <file name="img_834268x45.jpg" crc="63251807" seo="true" ref="index"/>
+    <file name="img_851368x45.jpg" crc="322935941" seo="true" ref="index"/>
+    <file name="img_871368x45.jpg" crc="3777795707" seo="true" ref="index"/>
+    <file name="img_979268x45.jpg" crc="260410908" seo="true" ref="index"/>
+    <file name="img_986668x45.jpg" crc="203322950" seo="true" ref="index"/>
+    <file name="img_990068x45.jpg" crc="45324340" seo="true" ref="index"/>
+    <file name="img_990268x45.jpg" crc="526396513" seo="true" ref="index"/>
+    <file name="img_990868x45.jpg" crc="176149881" seo="true" ref="index"/>
+    <file name="u3165-4.png" crc="205873378" ref="index"/>
+    <file name="u3209-4.png" crc="4157855594" ref="index"/>
+    <file name="u3212-4.png" crc="3813527786" ref="index"/>
+    <file name="u3215-4.png" crc="131327372" ref="index"/>
+    <file name="u3221-4.png" crc="209485334" ref="index"/>
+    <file name="u3224-4.png" crc="3833013150" ref="index"/>
+    <file name="u3227-4.png" crc="471746984" ref="index"/>
+    <file name="u1115-4.png" crc="300094789" ref="index"/>
+    <file name="u1132-17.png" crc="415835978" ref="index"/>
+    <file name="u1132-17-r.png" crc="51642801" ref="index"/>
+    <file name="u1132-17-m.png" crc="51642801" ref="index"/>
+    <file name="u1132-17-fs.png" crc="510658489" ref="index"/>
   </folder>
-  <file name="index.html" crc="39689849" seo="true" mt="1472493244793" redirect="true"/>
+  <file name="index.html" crc="3776370306" seo="true" mt="1472868960184" redirect="true"/>
+  <file name="casa-cultura.html" crc="143917903" seo="true" mt="1472868911122" redirect="true"/>
 </manifest>
