@@ -25,8 +25,8 @@ $form = array(
 		'unknown_method' => 'Método de solicitud de servidor desconocido'
 	),
 	'email' => array(
-		'from' => 'rms1993@gmail.com',
-		'to' => 'rms1993@gmail.com'
+		'from' => 'contacto@ludicultura.com',
+		'to' => 'contacto@ludicultura.com'
 	),
 	'fields' => array(
 		'custom_U1127' => array(
