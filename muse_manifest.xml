@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="ludicultura.com" resolutions="1x" timestamp="1472871086099">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="ludicultura.com" resolutions="1x" timestamp="1472880722578">
   <folder name="css">
     <file name="site_global.css" crc="254915991"/>
     <file name="casa-cultura.css" crc="4111011110" ref="casa-cultura"/>
-    <file name="index.css" crc="4181218993" ref="index"/>
+    <file name="index.css" crc="3886619944" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:casa-cultura"/>
@@ -47,6 +47,7 @@
     <file name="avion.png" crc="3809879880" seo="true" ref="index"/>
     <file name="paloma.png" crc="3766731495" seo="true" ref="index"/>
     <file name="erick.png" crc="4245150510" ref="index"/>
+    <file name="al.png" crc="3949588195" ref="index"/>
     <file name="ivan.png" crc="4140520077" ref="index"/>
     <file name="pilip.png" crc="3769830634" ref="index"/>
     <file name="pantalla2.jpg" crc="3913957250" seo="true" ref="index"/>
@@ -100,6 +101,6 @@
     <file name="u1132-17-m.png" crc="51642801" ref="index"/>
     <file name="u1132-17-fs.png" crc="510658489" ref="index"/>
   </folder>
-  <file name="index.html" crc="418777106" seo="true" mt="1472871056448" redirect="true"/>
+  <file name="index.html" crc="96213568" seo="true" mt="1472880630683" redirect="true"/>
   <file name="casa-cultura.html" crc="4250776585" seo="true" mt="1472870150868" redirect="true"/>
 </manifest>
