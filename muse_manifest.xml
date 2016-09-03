@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="ludicultura.com" resolutions="1x" timestamp="1472870231263">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="ludicultura.com" resolutions="1x" timestamp="1472870926729">
   <folder name="css">
     <file name="site_global.css" crc="254915991"/>
     <file name="casa-cultura.css" crc="4111011110" ref="casa-cultura"/>
-    <file name="index.css" crc="3997480288" ref="index"/>
+    <file name="index.css" crc="4181218993" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:casa-cultura"/>
@@ -19,7 +19,7 @@
     <file name="form_check.php" crc="3805695515" ref="index"/>
     <file name="form_throttle.php" crc="3802629389" ref="index"/>
     <file name="form_process.php" crc="54267062" ref="index"/>
-    <file name="form-u1117.php" crc="4134507218" ref="index"/>
+    <file name="form-u1117.php" crc="59237463" ref="index"/>
     <file name="jquery.scrolleffects.js" crc="4219894366" ref="index"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:casa-cultura"/>
   </folder>
@@ -100,6 +100,6 @@
     <file name="u1132-17-m.png" crc="51642801" ref="index"/>
     <file name="u1132-17-fs.png" crc="510658489" ref="index"/>
   </folder>
-  <file name="index.html" crc="388969368" seo="true" mt="1472870150868" redirect="true"/>
+  <file name="index.html" crc="418777106" seo="true" mt="1472870854199" redirect="true"/>
   <file name="casa-cultura.html" crc="4250776585" seo="true" mt="1472870150868" redirect="true"/>
 </manifest>

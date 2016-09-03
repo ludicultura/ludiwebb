@@ -1,25 +1,25 @@
 .version.index /* version checker */
 {
-	color: #0000EE;
-	background-color: #44B560;
+	color: #0000F9;
+	background-color: #3856B1;
 }
 
 #page
 {
 	z-index: 1;
 	width: 980px;
-	min-height: 5237px;
+	min-height: 5236.85px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
 	background-color: transparent;
+	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
 }
 
 #page_position_content
 {
-	padding-bottom: 66px;
 	width: 0.01px;/* should not cover content below */
 }
 
@@ -1925,7 +1925,7 @@
 #pu2114-11
 {
 	width: 0.01px;
-	margin-left: -100px;
+	margin-left: -187px;
 	margin-top: 2px;
 }
 
@@ -1950,6 +1950,7 @@
 #u4556-11
 {
 	z-index: 130;
+	width: 1354px;
 	min-height: 110px;
 	background-color: #003031;
 	color: #00A99D;
@@ -1957,12 +1958,8 @@
 	font-size: 18px;
 	line-height: 22px;
 	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
-}
-
-#u4556-11-bw
-{
-	z-index: 130;
-	min-height: 110px;
+	position: relative;
+	margin-right: -10000px;
 }
 
 #u1115-4
@@ -2055,7 +2052,7 @@
 	border-color: #000000;
 	background-color: #FFFFFF;
 	padding: 6px;
-	color: #FFFFFF;
+	color: #000000;
 	text-align: center;
 	font-size: 13px;
 	letter-spacing: 10px;
@@ -2108,7 +2105,7 @@
 	border-color: #000000;
 	background-color: #FFFFFF;
 	padding: 6px;
-	color: #FFFFFF;
+	color: #000000;
 	text-align: center;
 	font-size: 13px;
 	letter-spacing: 10px;
@@ -2260,7 +2257,7 @@
 	border-color: #000000;
 	background-color: #FFFFFF;
 	padding: 6px;
-	color: #FFFFFF;
+	color: #000000;
 	text-align: center;
 	font-size: 13px;
 	letter-spacing: 10px;
@@ -2294,7 +2291,7 @@
 {
 	width: 472px;
 	min-height: 239px;
-	color: #FFFFFF;
+	color: #000000;
 	text-align: center;
 	letter-spacing: 10px;
 	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
@@ -2335,7 +2332,7 @@
 	border-color: #000000;
 	background-color: #FFFFFF;
 	padding: 6px;
-	color: #FFFFFF;
+	color: #000000;
 	text-align: center;
 	font-size: 13px;
 	letter-spacing: 10px;
@@ -2387,7 +2384,7 @@
 {
 	width: 321px;
 	min-height: 34px;
-	color: #FFFFFF;
+	color: #000000;
 	text-align: center;
 	letter-spacing: 10px;
 	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
@@ -2399,6 +2396,16 @@
 {
 	padding-top: 6px;
 	padding-bottom: 6px;
+}
+
+#u4700
+{
+	z-index: 369;
+	width: 1354px;
+	height: 66px;
+	background-color: #003031;
+	left: -187px;
+	position: relative;
 }
 
 #muse_css_mq,.html
