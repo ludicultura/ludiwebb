@@ -1,23 +1,28 @@
 .version.casa_cultura /* version checker */
 {
-	color: #0000EC;
-	background-color: #193916;
+	color: #0000F5;
+	background-color: #090D26;
 }
 
 #page
 {
 	z-index: 1;
-	width: 747px;
-	min-height: 306.55000000000007px;
+	width: 980px;
+	min-height: 2499.55px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
 	background-color: transparent;
-	padding-top: 62px;
-	padding-right: 233px;
-	padding-bottom: 2131.45px;
+	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
+}
+
+#page_position_content
+{
+	padding-top: 25px;
+	padding-bottom: 2131px;
+	width: 0.01px;/* should not cover content below */
 }
 
 #u4690-4
@@ -31,6 +36,7 @@
 	font-size: 18px;
 	line-height: 22px;
 	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
+	left: -63px;
 	position: relative;
 }
 
@@ -66,7 +72,7 @@
 	font-size: 48px;
 	line-height: 58px;
 	margin-left: 234px;
-	margin-top: 165px;
+	margin-top: 202px;
 	position: relative;
 }
 

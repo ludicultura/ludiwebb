@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000003;
-	background-color: #07D471;
+	color: #0000EE;
+	background-color: #44B560;
 }
 
 #page
@@ -23,6 +23,12 @@
 	width: 0.01px;/* should not cover content below */
 }
 
+#pu2288-3
+{
+	width: 0.01px;
+	margin-left: -141px;
+}
+
 #u2288-3
 {
 	z-index: 245;
@@ -31,6 +37,7 @@
 	border-color: #000000;
 	position: relative;
 	margin-right: -10000px;
+	left: 5px;
 	background: transparent url("../images/1.jpg") no-repeat center bottom;
 	background-size: cover;
 }
@@ -49,7 +56,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 589px;
-	left: 512px;
+	left: 517px;
 }
 
 #u1246-4:hover
@@ -67,7 +74,15 @@
 	position: relative;
 	width: 22px;
 	margin-right: -10000px;
-	margin-top: 48px;
+}
+
+#centrocultural
+{
+	position: relative;
+	width: 22px;
+	margin-right: -10000px;
+	margin-top: 714px;
+	left: 5px;
 }
 
 #pu2368
@@ -420,7 +435,7 @@
 	margin-left: -576px;
 }
 
-#pu2288-3,#pu2799
+#pu2799
 {
 	width: 0.01px;
 	margin-left: -136px;
@@ -436,7 +451,7 @@
 	margin-right: -10000px;
 }
 
-#centrocultural,#quienesomos
+#quienesomos
 {
 	position: relative;
 	width: 22px;
