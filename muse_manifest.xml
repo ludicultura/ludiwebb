@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="ludicultura.com" resolutions="1x" timestamp="1472880722578">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="ludicultura.com" resolutions="1x" timestamp="1473861446762">
   <folder name="css">
     <file name="site_global.css" crc="254915991"/>
+    <file name="index.css" crc="4230579352" ref="index"/>
     <file name="casa-cultura.css" crc="4111011110" ref="casa-cultura"/>
-    <file name="index.css" crc="3886619944" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:casa-cultura"/>
@@ -24,7 +24,7 @@
     <file name="html5shiv.js" crc="4241844378" ref="index:casa-cultura"/>
   </folder>
   <folder name="images">
-    <file name="favicon.png" crc="4148476348" ref="index"/>
+    <file name="favicon.ico" crc="4148476348" ref="index"/>
     <file name="1.jpg" crc="4078743325" ref="index"/>
     <file name="u3454-4.png" crc="485008188" ref="index"/>
     <file name="u2709-6.png" crc="4066511717" ref="index"/>
@@ -43,9 +43,16 @@
     <file name="u1266-4.png" crc="4000311162" ref="index"/>
     <file name="u1268-4.png" crc="4163065831" ref="index"/>
     <file name="u1828-4.png" crc="4154819760" ref="index"/>
-    <file name="mariposa.png" crc="3933969705" seo="true" ref="index"/>
-    <file name="avion.png" crc="3809879880" seo="true" ref="index"/>
-    <file name="paloma.png" crc="3766731495" seo="true" ref="index"/>
+    <file name="difusion-ieu3238-fr.png" crc="4239424507" ref="index"/>
+    <file name="difusion.png" crc="4239424507" ref="index"/>
+    <file name="espacios-ieu3237-fr.png" crc="381383336" ref="index"/>
+    <file name="espacios.png" crc="381383336" ref="index"/>
+    <file name="eventos-ieu3242-fr.png" crc="3893766781" ref="index"/>
+    <file name="eventos.png" crc="3893766781" ref="index"/>
+    <file name="talento-ieu3241-fr.png" crc="247766489" ref="index"/>
+    <file name="talento.png" crc="247766489" ref="index"/>
+    <file name="juegos-ieu3239-fr.png" crc="500053806" ref="index"/>
+    <file name="juegos.png" crc="500053806" ref="index"/>
     <file name="erick.png" crc="4245150510" ref="index"/>
     <file name="al.png" crc="3949588195" ref="index"/>
     <file name="ivan.png" crc="4140520077" ref="index"/>
@@ -89,6 +96,9 @@
     <file name="img_990268x45.jpg" crc="526396513" seo="true" ref="index"/>
     <file name="img_990868x45.jpg" crc="176149881" seo="true" ref="index"/>
     <file name="u3165-4.png" crc="205873378" ref="index"/>
+    <file name="paloma.png" crc="3766731495" seo="true" ref="index"/>
+    <file name="mariposa.png" crc="3933969705" seo="true" ref="index"/>
+    <file name="avion.png" crc="3809879880" seo="true" ref="index"/>
     <file name="u3209-4.png" crc="4157855594" ref="index"/>
     <file name="u3212-4.png" crc="3813527786" ref="index"/>
     <file name="u3215-4.png" crc="131327372" ref="index"/>
@@ -101,6 +111,6 @@
     <file name="u1132-17-m.png" crc="51642801" ref="index"/>
     <file name="u1132-17-fs.png" crc="510658489" ref="index"/>
   </folder>
-  <file name="index.html" crc="96213568" seo="true" mt="1472880630683" redirect="true"/>
+  <file name="index.html" crc="96213568" seo="true" mt="1473861441294" redirect="true"/>
   <file name="casa-cultura.html" crc="4250776585" seo="true" mt="1472870150868" redirect="true"/>
 </manifest>

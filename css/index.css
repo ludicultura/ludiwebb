@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000E7;
-	background-color: #A91D28;
+	color: #0000FC;
+	background-color: #298498;
 }
 
 #page
@@ -761,9 +761,9 @@
 {
 	z-index: 77;
 	width: 0.01px;
-	height: 468px;
+	height: 537px;
 	margin-left: 82px;
-	margin-top: 45px;
+	margin-top: 10px;
 	position: relative;
 }
 
@@ -779,11 +779,13 @@
 {
 	position: absolute;
 	width: 220px;
-	height: 220px;
+	height: 254px;
 	border-width: 0px;
 	border-color: transparent;
 	border-radius: 10px;
-	background: transparent url("../images/mariposa.png") no-repeat center center;
+	background: transparent url("../images/difusion-ieu3238-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/difusion.png") no-repeat center center;
+	background-color: transparent;
 	background-size: cover;
 }
 
@@ -791,12 +793,14 @@
 {
 	position: absolute;
 	width: 220px;
-	height: 220px;
+	height: 255px;
 	border-width: 0px;
 	border-color: transparent;
 	border-radius: 10px;
 	left: 310px;
-	background: transparent url("../images/avion.png") no-repeat center center;
+	background: transparent url("../images/espacios-ieu3237-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/espacios.png") no-repeat center center;
+	background-color: transparent;
 	background-size: cover;
 }
 
@@ -804,12 +808,25 @@
 {
 	position: absolute;
 	width: 220px;
-	height: 220px;
+	height: 255px;
 	border-width: 0px;
 	border-color: transparent;
 	border-radius: 10px;
 	left: 619px;
-	background: transparent url("../images/paloma.png") no-repeat center center;
+	background: transparent url("../images/eventos-ieu3242-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/eventos.png") no-repeat center center;
+	background-color: transparent;
+	background-size: cover;
+}
+
+#u3237.PamphletThumbSelected,#u3242.PamphletThumbSelected
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	width: 220px;
+	height: 255px;
+	min-height: 0px;
+	margin: 0px;
 	background-size: cover;
 }
 
@@ -817,13 +834,15 @@
 {
 	position: absolute;
 	width: 220px;
-	height: 220px;
+	height: 254px;
 	border-width: 0px;
 	border-color: transparent;
 	border-radius: 10px;
-	top: 248px;
+	top: 283px;
 	left: 471px;
-	background: transparent url("../images/paloma.png") no-repeat center center;
+	background: transparent url("../images/talento-ieu3241-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/talento.png") no-repeat center center;
+	background-color: transparent;
 	background-size: cover;
 }
 
@@ -831,22 +850,24 @@
 {
 	position: absolute;
 	width: 220px;
-	height: 220px;
+	height: 254px;
 	border-width: 0px;
 	border-color: transparent;
 	border-radius: 10px;
-	top: 248px;
+	top: 283px;
 	left: 155px;
-	background: transparent url("../images/mariposa.png") no-repeat center center;
+	background: transparent url("../images/juegos-ieu3239-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/juegos.png") no-repeat center center;
+	background-color: transparent;
 	background-size: cover;
 }
 
-#u3238.PamphletThumbSelected,#u3237.PamphletThumbSelected,#u3242.PamphletThumbSelected,#u3241.PamphletThumbSelected,#u3239.PamphletThumbSelected
+#u3238.PamphletThumbSelected,#u3241.PamphletThumbSelected,#u3239.PamphletThumbSelected
 {
 	background-repeat: no-repeat;
 	background-position: center center;
 	width: 220px;
-	height: 220px;
+	height: 254px;
 	min-height: 0px;
 	margin: 0px;
 	background-size: cover;
@@ -856,7 +877,7 @@
 {
 	position: absolute;
 	width: 810px;
-	top: 15px;
+	top: 21px;
 	left: 15px;
 }
 
@@ -985,7 +1006,7 @@
 	border-radius: 200px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 248px;
+	margin-top: 290px;
 	left: 471px;
 	padding: 100px 11px 37px;
 	background: #FFFFFF url("../images/erick.png") no-repeat left top;
@@ -1023,7 +1044,7 @@
 	border-radius: 200px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 248px;
+	margin-top: 290px;
 	left: 155px;
 	padding: 23px 11px 114px;
 	background: #FFFFFF url("../images/pilip.png") no-repeat left top;
@@ -1066,7 +1087,7 @@
 	text-align: center;
 	color: #7F7F7F;
 	margin-left: 432px;
-	top: -241px;
+	top: -275px;
 	margin-bottom: -34px;
 	position: relative;
 }
@@ -1074,7 +1095,7 @@
 #galeria
 {
 	left: -136px;
-	margin-top: 92px;
+	margin-top: 58px;
 	position: relative;
 }
 
