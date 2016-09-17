@@ -25,8 +25,8 @@ $form = array(
 		'unknown_method' => 'Método de solicitud de servidor desconocido'
 	),
 	'email' => array(
-		'from' => 'contacto@ludicultura.com',
-		'to' => 'contacto@ludicultura.com'
+		'from' => 'sonrie@ludicultura.com',
+		'to' => 'sonrie@ludicultura.com'
 	),
 	'fields' => array(
 		'custom_U1127' => array(
