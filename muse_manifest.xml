@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="ludicultura.com" resolutions="1x" timestamp="1474127675351">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="ludicultura.com" resolutions="1x" timestamp="1474129436674">
   <folder name="css">
     <file name="site_global.css" crc="254915991"/>
     <file name="casa-cultura.css" crc="4111011110" ref="casa-cultura"/>
@@ -111,6 +111,6 @@
     <file name="u1132-17-m.png" crc="51642801" ref="index"/>
     <file name="u1132-17-fs.png" crc="510658489" ref="index"/>
   </folder>
-  <file name="index.html" crc="96213568" seo="true" mt="1474127575631" redirect="true"/>
+  <file name="index.html" crc="380412428" seo="true" mt="1474129387552" redirect="true"/>
   <file name="casa-cultura.html" crc="4250776585" seo="true" mt="1472870150868" redirect="true"/>
 </manifest>
